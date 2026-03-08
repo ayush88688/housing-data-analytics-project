@@ -22,6 +22,9 @@ This project analyzes housing market data to understand the factors influencing 
 ## Dashboard
 The interactive dashboard helps analyze housing trends and provides insights for real estate analysts and company executives.
 
+## Project Output
+Screenshots and output of the dashboard are included in the repository.
+
 ## Tableau Dashboard Link
 https://public.tableau.com/views/DAproject_17729600115140/ABCCompanyHousingMarketAnalysisDashboard
 
@@ -29,4 +32,5 @@ https://public.tableau.com/views/DAproject_17729600115140/ABCCompanyHousingMarke
 app.py
 house_sales.csv
 templates/dashboard.html
+
 Housing_Data_Analytics_Project_Report.pdf
